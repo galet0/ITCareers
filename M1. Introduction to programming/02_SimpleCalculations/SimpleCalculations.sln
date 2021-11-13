@@ -33,9 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "248_VegetablesStore", "248_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "249_TilesRepair", "249_TilesRepair\249_TilesRepair.csproj", "{19815469-CB51-48BC-BE06-05488F4D2DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "245_CrossCurrencyConverter", "245_CrossCurrencyConverter\245_CrossCurrencyConverter.csproj", "{5B61E565-8259-48BB-BD7A-392FF3F40F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "245_CrossCurrencyConverter", "245_CrossCurrencyConverter\245_CrossCurrencyConverter.csproj", "{5B61E565-8259-48BB-BD7A-392FF3F40F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "246_1000DaysOnTheEarth", "246_1000DaysOnTheEarth\246_1000DaysOnTheEarth.csproj", "{A95EC277-4AAB-4F32-9E38-A1FF1150C246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "246_1000DaysOnTheEarth", "246_1000DaysOnTheEarth\246_1000DaysOnTheEarth.csproj", "{A95EC277-4AAB-4F32-9E38-A1FF1150C246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2410_Money", "2410_Money\2410_Money.csproj", "{2A59BC16-1C97-4E10-BFEB-DFA2320EBBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2411_DailyProfit", "2411_DailyProfit\2411_DailyProfit.csproj", "{BE155163-9518-465E-8AF1-13AC43F031C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{A95EC277-4AAB-4F32-9E38-A1FF1150C246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A95EC277-4AAB-4F32-9E38-A1FF1150C246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A95EC277-4AAB-4F32-9E38-A1FF1150C246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A59BC16-1C97-4E10-BFEB-DFA2320EBBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A59BC16-1C97-4E10-BFEB-DFA2320EBBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A59BC16-1C97-4E10-BFEB-DFA2320EBBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A59BC16-1C97-4E10-BFEB-DFA2320EBBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE155163-9518-465E-8AF1-13AC43F031C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE155163-9518-465E-8AF1-13AC43F031C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE155163-9518-465E-8AF1-13AC43F031C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE155163-9518-465E-8AF1-13AC43F031C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
