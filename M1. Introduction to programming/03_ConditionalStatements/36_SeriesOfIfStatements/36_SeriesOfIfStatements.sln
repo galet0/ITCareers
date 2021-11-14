@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "361_WriteNumbersWithWords", "361_WriteNumbersWithWords\361_WriteNumbersWithWords.csproj", "{A9528968-D55A-4085-AA09-EB62BEEA5553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "361_WriteNumbersWithWords", "361_WriteNumbersWithWords\361_WriteNumbersWithWords.csproj", "{A9528968-D55A-4085-AA09-EB62BEEA5553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "362_BonusPoints", "362_BonusPoints\362_BonusPoints.csproj", "{16489ACE-4BB4-49E7-8AE7-57DEE5A202EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "362_BonusPoints", "362_BonusPoints\362_BonusPoints.csproj", "{16489ACE-4BB4-49E7-8AE7-57DEE5A202EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "363_SumSeconds", "363_SumSeconds\363_SumSeconds.csproj", "{3AFEE3FA-3FD1-434B-A120-98F6C6229DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "363_SumSeconds", "363_SumSeconds\363_SumSeconds.csproj", "{3AFEE3FA-3FD1-434B-A120-98F6C6229DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "364_MetricsConverter", "364_MetricsConverter\364_MetricsConverter.csproj", "{185FCE6C-E944-4AE3-9B5D-7DA11AD96D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "364_MetricsConverter", "364_MetricsConverter\364_MetricsConverter.csproj", "{185FCE6C-E944-4AE3-9B5D-7DA11AD96D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "365_Numberrom100To200", "365_Numberrom100To200\365_Numberrom100To200.csproj", "{A632D745-1837-4456-B058-5D12E1BB2158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "365_Numberrom100To200", "365_Numberrom100To200\365_Numberrom100To200.csproj", "{A632D745-1837-4456-B058-5D12E1BB2158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "366_SpeedInformation", "366_SpeedInformation\366_SpeedInformation.csproj", "{3DE8BEF4-CE34-45CD-8CF3-76D890D26394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "366_SpeedInformation", "366_SpeedInformation\366_SpeedInformation.csproj", "{3DE8BEF4-CE34-45CD-8CF3-76D890D26394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "367_FiguresAreas", "367_FiguresAreas\367_FiguresAreas.csproj", "{CEB97B55-2596-4BDD-BD2E-6471D965FF19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "367_FiguresAreas", "367_FiguresAreas\367_FiguresAreas.csproj", "{CEB97B55-2596-4BDD-BD2E-6471D965FF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "368_WriteNumbersWithWords", "368_WriteNumbersWithWords\368_WriteNumbersWithWords.csproj", "{57027BBB-5FC7-4AA5-9668-AACB05266CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{CEB97B55-2596-4BDD-BD2E-6471D965FF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB97B55-2596-4BDD-BD2E-6471D965FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB97B55-2596-4BDD-BD2E-6471D965FF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57027BBB-5FC7-4AA5-9668-AACB05266CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57027BBB-5FC7-4AA5-9668-AACB05266CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57027BBB-5FC7-4AA5-9668-AACB05266CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57027BBB-5FC7-4AA5-9668-AACB05266CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
