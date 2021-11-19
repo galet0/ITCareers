@@ -35,7 +35,7 @@ namespace IRunes.App.Controllers
             string controllerName = this.GetType().Name.Replace("Controller", string.Empty);
             string viewName = view;
             //C:\Users\weeew\source\repos\MiniServer\IRunes.App\Views\Home\Index.html
-            string viewContent = File.ReadAllText("../../../Views/" + controllerName + "/" + viewName + ".html");
+            string viewContent = File.ReadAllText("Views/" + controllerName + "/" + viewName + ".html");
             viewContent = this.ParseTemplate(viewContent);
 
             HtmlResult htmlResult = new HtmlResult(viewContent, HttpResponseStatusCode.Ok);
