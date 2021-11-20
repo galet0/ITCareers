@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4131_Histogram", "4131_Histogram\4131_Histogram.csproj", "{2BB3AD4B-1A69-40EB-BED4-2EE7B57C1294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4131_Histogram", "4131_Histogram\4131_Histogram.csproj", "{2BB3AD4B-1A69-40EB-BED4-2EE7B57C1294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4132_Divide", "4122_Divide\4132_Divide.csproj", "{61CC5203-B257-4A4B-856C-0DD42D75667E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4134_Butterfly", "4134_Butterfly\4134_Butterfly.csproj", "{86DE53ED-5C8F-4155-938E-CE712B44BCDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4134_Butterfly", "4134_Butterfly\4134_Butterfly.csproj", "{86DE53ED-5C8F-4155-938E-CE712B44BCDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4135_StupidPasswordGenerator", "4135_StupidPasswordGenerator\4135_StupidPasswordGenerator.csproj", "{B7263A5A-BF68-4D83-B99C-E059AADBAC68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4135_StupidPasswordGenerator", "4135_StupidPasswordGenerator\4135_StupidPasswordGenerator.csproj", "{B7263A5A-BF68-4D83-B99C-E059AADBAC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4133_Tower", "4133_Tower\4133_Tower.csproj", "{FD7B3161-4B79-4D5F-B981-1ABFE9396A99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4133_Tower", "4133_Tower\4133_Tower.csproj", "{FD7B3161-4B79-4D5F-B981-1ABFE9396A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4136_MagicNumbers", "4136_MagicNumbers\4136_MagicNumbers.csproj", "{3752DA71-C42E-411B-B85B-880890E67A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4136_MagicNumbers", "4136_MagicNumbers\4136_MagicNumbers.csproj", "{3752DA71-C42E-411B-B85B-880890E67A32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4132_DivisionWithoutReminder", "4132_DivisionWithoutReminder\4132_DivisionWithoutReminder.csproj", "{CEEAC692-9174-4E42-90F0-53BBCC9CFBDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,6 @@ Global
 		{2BB3AD4B-1A69-40EB-BED4-2EE7B57C1294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BB3AD4B-1A69-40EB-BED4-2EE7B57C1294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BB3AD4B-1A69-40EB-BED4-2EE7B57C1294}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61CC5203-B257-4A4B-856C-0DD42D75667E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61CC5203-B257-4A4B-856C-0DD42D75667E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61CC5203-B257-4A4B-856C-0DD42D75667E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61CC5203-B257-4A4B-856C-0DD42D75667E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{86DE53ED-5C8F-4155-938E-CE712B44BCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86DE53ED-5C8F-4155-938E-CE712B44BCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86DE53ED-5C8F-4155-938E-CE712B44BCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{3752DA71-C42E-411B-B85B-880890E67A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3752DA71-C42E-411B-B85B-880890E67A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3752DA71-C42E-411B-B85B-880890E67A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEAC692-9174-4E42-90F0-53BBCC9CFBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEAC692-9174-4E42-90F0-53BBCC9CFBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEAC692-9174-4E42-90F0-53BBCC9CFBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEAC692-9174-4E42-90F0-53BBCC9CFBDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

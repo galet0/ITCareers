@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_4122_Divide</RootNamespace>
+    <RootNamespace>_4132_DivisionWithoutReminder</RootNamespace>
   </PropertyGroup>
 
 </Project>
