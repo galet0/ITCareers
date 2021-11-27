@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Party", "01_Party\01_Party.csproj", "{7CB67E49-7C43-4D44-A877-6452A3068A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Party", "01_Party\01_Party.csproj", "{7CB67E49-7C43-4D44-A877-6452A3068A0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Backery", "02_Backery\02_Backery.csproj", "{F28DFEE4-3B19-4535-A314-16FAF3F46EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Backery", "02_Backery\02_Backery.csproj", "{F28DFEE4-3B19-4535-A314-16FAF3F46EC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ChristmasHolyday", "03_ChristmasHolyday\03_ChristmasHolyday.csproj", "{A72C4D89-1F8F-459F-BE27-B08426860D98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ChristmasHolyday", "03_ChristmasHolyday\03_ChristmasHolyday.csproj", "{A72C4D89-1F8F-459F-BE27-B08426860D98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ChristmasPresents", "04_ChristmasPresents\04_ChristmasPresents.csproj", "{47C50BF0-0405-4860-9CA2-CD2DD6CCEA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ChristmasPresents", "04_ChristmasPresents\04_ChristmasPresents.csproj", "{47C50BF0-0405-4860-9CA2-CD2DD6CCEA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_WinningNumbers", "05_WinningNumbers\05_WinningNumbers.csproj", "{29959A01-0B32-4E52-9DC7-6D30C098B555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{47C50BF0-0405-4860-9CA2-CD2DD6CCEA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C50BF0-0405-4860-9CA2-CD2DD6CCEA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C50BF0-0405-4860-9CA2-CD2DD6CCEA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29959A01-0B32-4E52-9DC7-6D30C098B555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29959A01-0B32-4E52-9DC7-6D30C098B555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29959A01-0B32-4E52-9DC7-6D30C098B555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29959A01-0B32-4E52-9DC7-6D30C098B555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
