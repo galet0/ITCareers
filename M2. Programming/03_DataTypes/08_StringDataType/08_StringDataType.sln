@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081_String", "081_String\081_String.csproj", "{344AE9C6-D250-4D4D-998A-8DFEF42A4096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081_Greeting", "081_Greeting\081_Greeting.csproj", "{403D94AA-49E6-4CCE-9B46-65A1594BD68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "086_Refactoring", "086_Refactoring\086_Refactoring.csproj", "{3A9DF8C6-5CDA-4056-9965-BFF67E1B3CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "082_StringandChar", "082_StringandChar\082_StringandChar.csproj", "{EEC7C16A-BF3F-42A7-AC4D-0D3EB25F3F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "083_StringObject", "083_StringObject\083_StringObject.csproj", "{C5B03D87-422B-4A8F-A16E-78EC78A32F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "084_ReverseSymbols", "084_ReverseSymbols\084_ReverseSymbols.csproj", "{6413A26E-69ED-488B-8FDA-EEE2AA2C7097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "085_EmployeesData", "085_EmployeesData\085_EmployeesData.csproj", "{6B0A7261-5A67-43CC-9586-5795821B181C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344AE9C6-D250-4D4D-998A-8DFEF42A4096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344AE9C6-D250-4D4D-998A-8DFEF42A4096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344AE9C6-D250-4D4D-998A-8DFEF42A4096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344AE9C6-D250-4D4D-998A-8DFEF42A4096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403D94AA-49E6-4CCE-9B46-65A1594BD68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403D94AA-49E6-4CCE-9B46-65A1594BD68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403D94AA-49E6-4CCE-9B46-65A1594BD68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403D94AA-49E6-4CCE-9B46-65A1594BD68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9DF8C6-5CDA-4056-9965-BFF67E1B3CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9DF8C6-5CDA-4056-9965-BFF67E1B3CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9DF8C6-5CDA-4056-9965-BFF67E1B3CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9DF8C6-5CDA-4056-9965-BFF67E1B3CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC7C16A-BF3F-42A7-AC4D-0D3EB25F3F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC7C16A-BF3F-42A7-AC4D-0D3EB25F3F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC7C16A-BF3F-42A7-AC4D-0D3EB25F3F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC7C16A-BF3F-42A7-AC4D-0D3EB25F3F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B03D87-422B-4A8F-A16E-78EC78A32F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B03D87-422B-4A8F-A16E-78EC78A32F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B03D87-422B-4A8F-A16E-78EC78A32F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B03D87-422B-4A8F-A16E-78EC78A32F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6413A26E-69ED-488B-8FDA-EEE2AA2C7097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6413A26E-69ED-488B-8FDA-EEE2AA2C7097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6413A26E-69ED-488B-8FDA-EEE2AA2C7097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6413A26E-69ED-488B-8FDA-EEE2AA2C7097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0A7261-5A67-43CC-9586-5795821B181C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0A7261-5A67-43CC-9586-5795821B181C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0A7261-5A67-43CC-9586-5795821B181C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0A7261-5A67-43CC-9586-5795821B181C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5F23FC-19C1-419E-A6A8-2123648ACD0D}
+	EndGlobalSection
+EndGlobal
