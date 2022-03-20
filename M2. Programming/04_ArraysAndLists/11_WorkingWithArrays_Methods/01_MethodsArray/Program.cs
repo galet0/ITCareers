@@ -9,6 +9,7 @@ namespace _01_MethodsArray
         {
             int[] arr = new int[] { 2, 4, -5, 1, 10 };
 
+
             Array.Reverse(arr);
             Console.WriteLine(string.Join(" ", arr));
 
