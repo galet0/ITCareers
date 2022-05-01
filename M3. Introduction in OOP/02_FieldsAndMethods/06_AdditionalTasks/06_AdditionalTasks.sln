@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Travel", "01_Travel\01_Travel.csproj", "{C036D115-36D0-4F68-A025-F2A87565E89B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RectanglesOverlapping", "02_RectanglesOverlapping\02_RectanglesOverlapping.csproj", "{246C1B32-D407-4AF1-B140-6D8533B0A962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C036D115-36D0-4F68-A025-F2A87565E89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C036D115-36D0-4F68-A025-F2A87565E89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C036D115-36D0-4F68-A025-F2A87565E89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C036D115-36D0-4F68-A025-F2A87565E89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246C1B32-D407-4AF1-B140-6D8533B0A962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246C1B32-D407-4AF1-B140-6D8533B0A962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246C1B32-D407-4AF1-B140-6D8533B0A962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246C1B32-D407-4AF1-B140-6D8533B0A962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBEFECF-1A63-436C-ADBA-2E8226351055}
+	EndGlobalSection
+EndGlobal
