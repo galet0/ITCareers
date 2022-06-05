@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StretchingArray", "StretchingArray\StretchingArray.csproj", "{03997E89-8A92-41A4-BF71-BFA4B52B90D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_LinearStructures", "02_LinearStructures\02_LinearStructures.csproj", "{F9ACF63A-27A8-4FB9-AAAB-676293B7CE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03997E89-8A92-41A4-BF71-BFA4B52B90D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03997E89-8A92-41A4-BF71-BFA4B52B90D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03997E89-8A92-41A4-BF71-BFA4B52B90D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03997E89-8A92-41A4-BF71-BFA4B52B90D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ACF63A-27A8-4FB9-AAAB-676293B7CE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ACF63A-27A8-4FB9-AAAB-676293B7CE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ACF63A-27A8-4FB9-AAAB-676293B7CE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ACF63A-27A8-4FB9-AAAB-676293B7CE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA23EB5-8FC2-4CC8-804E-64B26F7620C3}
+	EndGlobalSection
+EndGlobal
