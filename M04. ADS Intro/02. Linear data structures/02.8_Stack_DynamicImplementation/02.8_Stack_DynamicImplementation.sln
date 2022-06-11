@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.8_Stack_DynamicImplementation", "02.8_Stack_DynamicImplementation\02.8_Stack_DynamicImplementation.csproj", "{683BC279-FABA-41BB-BE16-575D84A16455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683BC279-FABA-41BB-BE16-575D84A16455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683BC279-FABA-41BB-BE16-575D84A16455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683BC279-FABA-41BB-BE16-575D84A16455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683BC279-FABA-41BB-BE16-575D84A16455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4554A06-8BFB-45C7-B57E-3A4A4653257C}
+	EndGlobalSection
+EndGlobal
